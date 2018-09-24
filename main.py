@@ -13,7 +13,7 @@ form = """
               background-color: black;
           }}
           form {{
-              background-color: #777;
+              background-color: #888;
               padding: 20px;
               margin: 0 auto;
               width: 540px;
